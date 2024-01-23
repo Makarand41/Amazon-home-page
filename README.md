@@ -39,10 +39,12 @@ Simply open the index.html file in your browser to view the Amazon clone. You ca
 ## Screenshots
 
 1] Screenshot1
-![Alt text](image.png)
+![image](https://github.com/Makarand41/Amazon-home-page/assets/90332486/625ddf1e-9fb7-41ca-9894-5473ac150b4b)
+
 
 1] Screenshot2
-![Alt text](image-1.png)
+![image](https://github.com/Makarand41/Amazon-home-page/assets/90332486/dcecd35c-d34c-4d99-99e4-c1d07bc1aabe)
+
 
 ## Acknowledgement
 
